@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+ 
+.App-header {
+  color: #fff;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.gambar{
+  position: absolute;
+  width: 1176px;
+  height: 1176px; 
+  left: 480px;
+  top: -190px;
+}
+

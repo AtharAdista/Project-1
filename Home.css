@@ -1,0 +1,65 @@
+
+.Gambar{
+    position: absolute;
+    left: 500px;
+}
+.welcome{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    top: 160px;
+    left: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 72px;
+    color: #000080;
+}
+
+.Kata{
+    position: absolute;
+    width: 550px;
+    height: 210px;
+    top: 275px;
+    left: 260px;
+    text-align: center;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 48px;
+    color: #000;
+}
+
+.getStarted{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    top: 520px;
+    left: 435px;
+    text-align: center;
+    border-radius: 20px;
+    background: #000080;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.Get{
+    text-decoration: none;
+    color: #fff;
+}
+
+img{
+    position: absolute;
+    width: 323px;
+    height: 483px;
+    left: 420px;
+    top: 140px
+}
